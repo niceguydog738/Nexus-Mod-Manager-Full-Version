@@ -241,4 +241,4 @@ This repository serves as the official landing page for Nexus Mod Manager. The s
 **Get the most recent version of Nexus Mod Manager today!**
 
 ---
-**Last updated:** 2026-10-06 17:41:04 UTC
+**Last updated:** 2026-10-06 22:05:03 UTC
